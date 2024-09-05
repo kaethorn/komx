@@ -32,7 +32,7 @@
     "@ionic/angular": "^6.1.3",
     "@types/gapi": "0.0.41",
     "@types/gapi.auth2": "0.0.54",
-    "cordova-android": "10.1.2",
+    "cordova-android": "13.0.0",
     "cordova-plugin-splashscreen": "6.0.1",
     "core-js": "^3.22.4",
     "hammerjs": "^2.0.8",
